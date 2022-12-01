@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+
+body{
+	font-family: 'Cormorant Garamond';
+	font-size:30px;
+}
+.verh{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 20px;
+	gap: 60px;
+	
+	position: absolute;
+	right:0px;
+	left: 0px;
+	top: 0px;
+
+	background: #F1F1F1;
+border-bottom: 2px solid #000000;
+}
+.logo{
+	width: 50px;
+    height: 50px;
+}
+.loopa{
+	width: 15px;
+    height: 15px;
+}
+.verh-sereduna{
+	box-sizing: border-box;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	padding: 16px 8px 16px 16px;
+	gap: 8px;
+
+	width: 726px;
+	height: 56px;
+
+	border: 1px solid #000000;
+	border-radius: 30px;
+	
+	
+	flex: none;
+	order: 1;
+	flex-grow: 0;
+}
+.znautu-anime{
+	font-style: normal;
+	line-height: 0px;
+	color: #B4AEAE;
+	flex: none;
+	order: 1;
+	flex-grow: 0;
+}
+.zvonok{
+	width: 50px;
+    height: 50px;
+	left:1330;
+	position:relative;
+	
+}
+.settings{
+	width: 50px;
+    height: 50px;
+	left:1380;
+	position:relative;
+	
+}
+.ava{
+	width: 50px;
+    height: 50px;
+	left:1450;
+	position:relative;
+	
+}
+.to_chto_sleva {
+	position:fixed;
+	width: 229px;
+	height: 280px;
+	left: 20px;
+	top: 198px;
+	padding-bottom:100%;
+}
+.to_chto_sleva p{
+	text-decoration:none;
+	text-align:left;
+	color:black;
+}
+.coroche1:hover {
+	background-color:#6E4093;
+	border-radius:5px;
+	padding:5px 5px 5px 5px;
+	color:#FFFFFF;
+	padding-left:16px;
+}
+.coroche2:hover {
+	background-color:#FFA000;
+	border-radius:5px;
+	padding:5px 5px 5px 5px;
+	color:#FFFFFF;
+	padding-left:16px;
+}
+.coroche3:hover {
+	background-color:#0288D1;
+	border-radius:5px;
+	padding:5px 5px 5px 5px;
+	color:#FFFFFF;
+	padding-left:16px;
+}
+.coroche4:hover {
+	background-color:#D81B60;
+	border-radius:5px;
+	padding:5px 5px 5px 5px;
+	color:#FFFFFF;
+	padding-left:16px;
+}
+.coroche5:hover {
+	background-color:#43A047;
+	border-radius:5px;
+	padding:5px 5px 5px 5px;
+	color:#FFFFFF;
+	padding-left:16px;
+}
+
+
+
+
+
+
+.mandrivnuu_zamok{
+	width: 1473px;
+	height: 841px;
+	padding-top:170px;
+	padding-left:300px;
+}
+.perha_stroka {
+	padding-left:300px;
+}
+.perha_stroka img{
+	Width:280px;
+	Height:370px;
+	border-radius:10px;
+	padding-right:18px;
+	
+}
+.drucha_stroka {
+	padding-left:300px;
+}
+.drucha_stroka img{
+	Width:280px;
+	Height:370px;
+	border-radius:10px;
+	padding-right:18px;
+	
+}
+.treti_stroka {
+	padding-left:300px;
+}
+.treti_stroka img{
+	Width:280px;
+	Height:370px;
+	border-radius:10px;
+	padding-right:18px;
+	
+}
+.thetwerta_stroka {
+	padding-left:300px;
+}
+.thetwerta_stroka img{
+	Width:601px;
+	Height:894px;
+	border-radius:20px;
+	padding-right:188px;
+	margin:0;
+}
+.video{
+	padding-left:300px;
+	padding-right:188px;
+}
+.fffri-stailo{
+	background-color:#000000;
+	padding-bottom:100px;
+	border-radius:10px;
+}
+.fffri-stailo p{
+	color:#F1F1F1;
+}
+.logo-footer{
+	width: 50px;
+    height: 50px;
+}
+.nazva{
+	padding-top:120px;
+	padding-left:300px;
+}
+.kartinka-zacholovok{
+	padding-left:300px;
+	border-radius:10px;
+	
+}
+.opus{
+	left:617px;
+	top:377px;
+	width: 478px;
+	height: 183px;
+	position:absolute;
+	background-color:#D9D9D9;
+}
+.ochinka{
+	left:617px;
+	top:300px;
+	position:absolute;
+}
+.nu-tam-video{
+	position:absolute;
+	top:600px;
+	left:309px;
+}
